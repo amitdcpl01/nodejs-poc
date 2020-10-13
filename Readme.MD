@@ -10,3 +10,6 @@ npm install nodemon --save-dev
 },
 
 npm install express-edge --save
+
+for ecommerce:
+npm i express dotenv nodemon
