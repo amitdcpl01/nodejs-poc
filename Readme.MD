@@ -13,3 +13,7 @@ npm install express-edge --save
 
 for ecommerce:
 npm i express dotenv nodemon
+npm i mongoose
+npm i body-parser morgan cookie-parser
+npm i express-validator
+npm i express-jwt jsonwebtoken
