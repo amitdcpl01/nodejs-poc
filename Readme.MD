@@ -17,3 +17,4 @@ npm i mongoose
 npm i body-parser morgan cookie-parser
 npm i express-validator
 npm i express-jwt jsonwebtoken
+npm i formidable loadash
